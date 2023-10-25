@@ -8,16 +8,11 @@ backLeft.setSpeed(x-y)
 backRight.setSpeed(x+y)
 
 ParkInSpot:
-Move out from position:
 Move a specific distance based on function
-Drive to park:
 Move a specific distance once more based on function
-Park:
-Nothing to do here. It is done when the specific distance ends.
 
 PlacePixel:
 Move to board
-Align until the middle april tag is read:
-Sweep horizontally a specific distance until april tag is detected
+Sweep horizontally a specific distance until middle april tag is detected
 Move corresponding motors to place pixel
-Drive away and park
+
