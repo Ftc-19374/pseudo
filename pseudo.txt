@@ -1,5 +1,5 @@
 Movement Function:
-move all four motors based on the input given similar to the mecanum code, which goes as follows:
+move all four motors based on the input given similar to the mecanum code, which goes as follows (tick based instead):
 x=joystick x movement
 y=joystick y movement
 frontLeft.setSpeed(x+y)
